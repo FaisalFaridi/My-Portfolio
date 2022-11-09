@@ -1,0 +1,566 @@
+#title {
+    background-color: #474E68;
+}
+
+@media only screen and (min-width: 1000px) {
+    h1 {
+        font-family: "Montserrat-black", sans-serif ;
+        font-weight: 900;
+        font-size: 3rem;
+        line-height: 1.5;
+        color: white;
+        margin-top: 250px;
+        padding-bottom: 50px;
+    }
+    
+    button {
+        border-radius: 10%;
+    }
+    
+    .container-fluid {
+        padding: 0% 5% 0% 5%;
+        
+    }
+    
+    .navbar-brand {
+        padding-left: 200px;
+        font-size: 1.5rem;
+    }
+    
+    .navbar-nav {
+        padding-left: 1000px;
+        font-size: 1.5rem;
+        
+    } 
+    
+    .profile-photo {
+            height: 300px;
+            margin-left: 200px;
+            margin-top: 200px;
+    }
+    
+    .col-lg-6 {
+        padding-bottom: 300px;
+    }
+    
+    .btn {
+        margin-right: 10px;
+    }
+
+    .profile-photo-1 {
+        display: none;
+    }
+
+    /* CONTACT FORM */
+    input[type=text], select, textarea {
+        width: 100%;
+        padding: 12px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+        margin-top: 6px;
+        margin-bottom: 16px;
+        resize: vertical;
+      }
+      
+      input[type=submit] {
+        background-color: #04AA6D;
+        color: white;
+        padding: 12px 20px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+      }
+      
+      input[type=submit]:hover {
+        background-color: #45a049;
+      }
+      
+      .container {
+        border-radius: 5px;
+        background-color: #f2f2f2;
+        padding: 20px;
+      }
+
+      /* About Me */
+
+    
+      #features {
+        background-color: #50577A;
+      }
+
+      .about-me {
+        color: white;
+        text-align: center;
+        padding-top: 50px;
+        font-size: 3.5rem;
+        padding-bottom: 50px;
+      }
+
+      .about-para {
+        color: white;
+        padding-bottom: 50px;
+        font-size: 2.5rem;
+        width: 70%;
+        margin: 0 auto;
+        text-align: center;
+      }
+
+      .h3-hobbies {
+        color: white;
+        text-align: center;
+        padding-top: 50px;
+        font-size: 3.5rem;
+        padding-bottom: 50px;
+      }
+
+      .sports-para {
+        color: white;
+        padding-bottom: 50px;
+        font-size: 2.5rem;
+        width: 70%;
+        margin: 0 auto;
+        text-align: center;
+      }
+      
+      ul {
+        font-size: 1.5rem;
+        color: white;
+        width: 100%;
+        margin: 0 auto;
+        text-align: center;
+        display: none;
+      }
+
+      .sports-para-1 {
+        color: white;
+        padding-bottom: 50px;
+        font-size: 2.5rem;
+        width: 70%;
+        margin: 0 auto;
+        text-align: center;
+      }
+
+      .work{
+        color: white;
+        text-align: center;
+        padding-top: 50px;
+        font-size: 3.5rem;
+        padding-bottom: 50px;
+      }
+
+      .work-para {
+        color: white;
+        padding-bottom: 50px;
+        font-size: 2.5rem;
+        width: 70%;
+        margin: 0 auto;
+        text-align: center;
+      }
+
+      #testimonials {
+        display: none;
+      }
+
+      #press {
+        display: none;
+      }
+
+      /* pricing section */
+
+      #pricing {
+        background-color: #474E68;
+        padding: 7% 15%;
+      }
+
+      .pricing-h2 {
+        color: white;
+        text-align: center;
+        padding-top: 50px;
+        font-size: 3.5rem;
+        padding-bottom: 50px;
+      }
+
+      .pricing-para-title{
+        color: white;
+        padding-bottom: 50px;
+        font-size: 2.5rem;
+        width: 70%;
+        margin: 0 auto;
+        text-align: center;
+      }
+
+      .features-h2 {
+            text-align: center;
+            color: white;
+      }
+
+      .features-h3 {
+        color: white;
+        text-align: center;
+      }
+
+      .item-points {
+        color: white;
+        text-align: center;
+        padding-top: 20px;
+        font-size: 1.5rem;
+      }
+
+      .item-points-2 {
+        color: white;
+        text-align: left;
+        padding-top: 20px;
+        font-size: 1.5rem;
+        padding-left: 60px;
+      }
+
+      .item-points-3 {
+        color: white;
+        text-align: left;
+        padding-top: 20px;
+        font-size: 1.5rem;
+        padding-left: 60px;
+      }
+
+      /* call to action */
+
+      #cta {
+        display: none;
+      }
+
+      /* Contact Me section */
+
+      #Contact2 {
+        background-color: #50577A;
+        padding-bottom: 70px;
+      }
+
+      .journey {
+        text-align: center;
+        color: white;
+        padding: 50px 0;
+      }
+
+      .container {
+        background-color: #6B728E;
+      }
+
+      .form-h2 {
+        color: white;
+      }
+
+      .form-titles {
+        color: white;
+        font-size: 1.5rem;
+      }
+
+      /* footer */
+
+      #footer {
+        background-color: #474E68;
+        padding: 30px 0;
+        text-align: center;
+        color: white;
+        font-size: 1.5rem;
+      }
+
+      
+
+       
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 600px) {
+
+
+    h1 {
+        font-family: "Montserrat-black",sans-serif;
+        margin-top: 50px;
+        font-size: 2.5rem;
+        color: white;
+        font-weight: 200;
+        text-align: center;
+
+        
+    }
+
+
+
+    .navbar-brand {
+        padding-left: 165px;
+        font-size: 1.5rem;
+    }
+
+    .navbar-toggler {
+        margin-right: 10px;
+    }
+
+    .btn {
+        display: none;
+    }
+
+    .profile-photo {
+        margin-top: 0;
+        margin-right: auto;
+        margin-left: auto;
+        margin-bottom: 0;
+        padding-left:  67px;
+        padding-top: 100px;
+        padding-bottom: 100px;
+
+    }
+
+    /* About Section  */
+
+    #features {
+        background-color: #50577A;
+    }
+
+    .about-me {
+        text-align: center;
+        padding: 50px 0 50px 0;
+        color: white;
+        font-family: "Montserrat-black",sans-serif;
+        font-size: 2.5rem;
+    }
+
+    .about-para {
+        text-align: center;
+        padding: 0 30px 50px 30px;
+        font-size: 1.5rem;
+        color: white;
+        
+    }
+
+    /* Hobbies section */
+
+    .h3-hobbies {
+        text-align: center;
+        padding: 30px 0 50px 0;
+        color: white;
+        font-family: "Montserrat-black",sans-serif;
+        font-size: 2.5rem;
+    }
+
+    .sports-para {
+        text-align: center;
+        color: white;
+        font-size: 1.5rem;
+        width: 70%;
+        margin: 0 auto;
+        padding-bottom: 30px;
+    }
+
+    .ul-list {
+        text-align: center;
+    }
+    
+    ul {
+        color: white;
+        display: inline-block;
+        text-align: left;
+        padding-bottom: 40px;
+        font-size: 1.5rem;
+    }
+
+    .sports-para-1 {
+        display: none;
+    }
+
+    .work {
+        text-align: center;
+        padding: 30px 0 50px 0;
+        color: white;
+        font-family: "Montserrat-black",sans-serif;
+        font-size: 2.5rem;
+    }
+
+    .work-para {
+        text-align: center;
+        padding: 0 30px 50px 30px;
+        font-size: 1.5rem;
+        color: white;
+        margin-bottom: 0px;
+    }
+
+
+    /* testimonial section */
+
+
+    #testimonials {
+        display: none;
+    }
+
+    #press {
+        display: none;
+    }
+
+
+
+    /* PRICING section */
+
+
+    #pricing {
+        background-color: #474E68;
+        padding-bottom: 50px;
+    }
+
+    .pricing-h2 {
+        text-align: center;
+        padding: 40px 0 50px 0;
+        color: white;
+        font-family: "Montserrat-black",sans-serif;
+        font-size: 2.5rem;
+    }
+
+    .pricing-para-title {
+        text-align: center;
+        padding: 0 30px 50px 30px;
+        font-size: 1.5rem;
+        color: white;
+        margin-bottom: 0px;
+    }
+
+    h2 {
+        color: white;
+        padding-top: 30px;
+        text-align: center;
+    }
+    
+    h3 {
+        color: white;
+        padding-top: 50px;
+        font-size: 2rem;
+        text-align: center;
+    }
+    
+    .item-points {
+        color: white;
+        text-align: center;
+    }
+
+    .item-points-1 {
+        color: white;
+        text-align: center;
+    }
+
+    .item-points-2 {
+        color: white;
+        text-align: center;
+    }
+
+    .item-points-3 {
+        color: white;
+        text-align: center;
+        line-height: 2;
+        margin-bottom: 0;
+    }
+
+
+    /* Contact section */
+    
+
+
+    #cta {
+        display: none;
+    }
+
+    #Contact2 {
+        background-color: #50577A;
+        padding-bottom: 70px;
+      }
+
+    .footer-button {
+       display: none;
+    }
+
+
+      #footer {
+        background-color: #404258;
+        padding-bottom: 20px;
+      }
+
+      .copyright-para {
+        color: white;
+        font-family: "Montserrat-black", sans-serif ;
+        text-align: center;
+        font-size: 1rem;
+        padding-top: 30px;
+      }
+
+      /* contact form */
+
+
+      input[type=text], select, textarea {
+        width: 100%;
+        padding: 12px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+        margin-top: 6px;
+        margin-bottom: 16px;
+        resize: vertical;
+      }
+      
+      input[type=submit] {
+        background-color: #04AA6D;
+        color: white;
+        padding: 12px 20px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+      }
+      
+      input[type=submit]:hover {
+        background-color: #45a049;
+      }
+      
+      .container {
+        border-radius: 0px;
+        background-color: #50577A;
+        padding: 20px;
+      }
+
+      .form-h2 {
+        padding-bottom: 50px;
+        font-size: 2rem;
+      }
+
+      .form-titles {
+        color: white;
+      }
+
+
+    
+
+
+}
